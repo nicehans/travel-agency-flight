@@ -17,7 +17,7 @@ spec:
         run: ta-flight
     spec:
       containers:
-      - image: $OKE_REPOSITORY:$WERCKER_GIT_BRANCH-$WERCKER_GIT_COMMIT
+      - image: $OKE_REGISTRY/$OKE_REPOSITORY:$WERCKER_GIT_BRANCH-$WERCKER_GIT_COMMIT
         #imagePullPolicy: IfNotPresent 
         imagePullPolicy: Always 
         name: ta-flight
