@@ -52,7 +52,7 @@ spec:
 #spec:
 #  rules:
 #  - http: 
-#      paths:
+#      paths: 
 #      - path: /flights
 #        backend:
 #          serviceName: ta-flight-svc
