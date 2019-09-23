@@ -51,7 +51,7 @@ spec:
 #    ingress.kubernetes.io/app-root: /
 #spec:
 #  rules:
-#  - http:
+#  - http: 
 #      paths:
 #      - path: /flights
 #        backend:
