@@ -50,7 +50,7 @@ spec:
 #    ingress.kubernetes.io/rewrite-target: / 
 #    ingress.kubernetes.io/app-root: /
 #spec:
-#  rules:
+#  rules: 
 #  - http: 
 #      paths: 
 #      - path: /flights
