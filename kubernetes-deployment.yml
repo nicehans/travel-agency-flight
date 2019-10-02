@@ -43,7 +43,7 @@ spec:
 #apiVersion: extensions/v1beta1
 #kind: Ingress
 #metadata: 
-#  name: ta-flight-ing  
+#  name: ta-flight-ing   
 #  annotations: 
 #    kubernetes.io/ingress.class: 'nginx'
 #    ingress.kubernetes.io/add-base-url: 'true'
