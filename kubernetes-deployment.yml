@@ -4,7 +4,7 @@ metadata:
   name: ta-flight
   labels:
     run: ta-flight 
-spec:
+spec: 
   replicas: 1
   strategy:
     rollingUpdate:
