@@ -1,6 +1,6 @@
 box:
   id: golang 
-build:
+build: 
   steps:
     - script:
         name: install go libraries
