@@ -21,7 +21,7 @@ build:
             pwd
             ls -l /pipeline/source/
             go version
-
+ 
 push-to-releases:
   steps:
     # Push to OCI Registry   
