@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: ta-flight
   labels:
-    run: ta-flight
+    run: ta-flight 
 spec:
   replicas: 1
   strategy:
