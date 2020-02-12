@@ -1,5 +1,5 @@
 box:
-  id: golang
+  id: golang 
 build:
   steps:
     - script:
