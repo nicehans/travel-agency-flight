@@ -2,7 +2,7 @@ box:
   id: golang 
 build: 
   steps:
-    - script:
+    - script: 
         name: install go libraries
         code: |
                 # Set GOPATH
